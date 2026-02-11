@@ -4,7 +4,8 @@ MiniShop
 
 این پروژه صرفا دانشگاهی بوده و به همین منظور انجام شده است 
 
-فایل های مریوطه
+فایل های مربوطه
+
 MiniShop / index.html product.html cart.html about.html Css/style.css assets/images README.md
 
 
